@@ -1,4 +1,4 @@
-let fighters = ["akuma", "alisa", "anna", "armor-king", "asuka", "bob", "bryan", "claudio", "devil-jin", "dragunov", "eddy", "eliza"]
+let fighters = ["akuma", "alisa", "anna", "armor-king", "asuka", "bob", "bryan", "claudio", "devil-jin", "dragunov", "eddy", "eliza", "leo", "panda", "kazumi", "king"]
 
 // Recreate the Fighters grid using this function
 
